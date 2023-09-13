@@ -1,0 +1,55 @@
+programa 
+{
+	inclua biblioteca Util 
+	
+	funcao inicio() 
+	{
+		/* 1)
+		inteiro num = 1
+
+		enquanto(num <= 100){
+			
+			escreva(" ", num)
+			num = num + 1
+		}
+		*/
+		
+		/* 2)
+		inteiro num = 100
+
+		enquanto(num >= 1){
+		1	
+			escreva(" ", num)
+			num = num - 1
+		}
+		*/
+		
+		/* 3)
+		inteiro num = 100
+
+		enquanto(num <= 200){
+
+			escreva(" ", num)
+			num = num + 1
+		}
+		*/
+		
+		/* 4)
+		inteiro num = 200
+
+		enquanto(num >= 100){
+
+			escreva(" ", num)
+			num = num - 1
+		}
+		*/
+
+		inteiro num = 0
+
+		enquanto(num <= 500){
+		
+			escreva(" ", num)
+			num = num + 5
+		}
+	}
+}
